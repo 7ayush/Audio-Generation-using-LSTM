@@ -33,7 +33,7 @@ Deep learning models:
 
 	1.LSTM
 
-Input -> accelerometer and gyroscope readings over a period of time at a decent frequency
+Input -> frequency and wavelength of different sounds in a song
 
 Output -> various classification outputs
 
